@@ -16,3 +16,4 @@ seaborn
 matplotlib
 pandas_ta
 plotly
+TA-Lib
