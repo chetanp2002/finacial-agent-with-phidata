@@ -1,0 +1,17 @@
+phidata
+python-dotenv
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+openai
+streamlit
+googlesearch-python
+pycountry
+scikit-learn
+textblob
+seaborn
+matplotlib
+pandas_ta
